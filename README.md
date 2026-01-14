@@ -13,12 +13,32 @@
 
 ---
 
-<p align="left">
-  <img src="https://github.com/user-attachments/assets/9ba01d1c-caf6-4c80-9ae9-58d3f81b83e5" width="48%" align="right" />
-  
-  <img src="https://github-readme-streak-stats-1-2fit.onrender.com/?user=jjs7233&theme=radical&hide_border=true" width="48%" />
+<br/>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=FE428E&center=true&vCenter=true&width=435&lines=Technologies+That+I+Know+🏗️" alt="Typing SVG" />
   <br/>
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jjs7233&layout=compact&theme=radical" width="48%" />
+  <img src="https://skillicons.dev/icons?i=java,spring,docker,mysql,redis,linux,git,aws,cpp,js,py,react,ts,vscode,kubernetes&theme=dark" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=FE428E&center=true&vCenter=true&width=435&lines=Connect+With+Me+🤝" alt="Typing SVG" />
   <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FE428E&width=435&lines=Building+Distributed+Systems;Gamer+and+Developer;Learning+New+Tech+Every+Day" alt="Typing SVG" />
-</p>
+  <a href="https://linkedin.com/in/你的用户名" target="blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
+  </a>
+  <a href="https://twitter.com/你的用户名" target="blank">
+    <img src="https://skillicons.dev/icons?i=twitter" width="40" />
+  </a>
+  <a href="https://instagram.com/你的用户名" target="blank">
+    <img src="https://skillicons.dev/icons?i=instagram" width="40" />
+  </a>
+  <a href="你的博客链接" target="blank">
+    <img src="https://skillicons.dev/icons?i=hashnode" width="40" />
+  </a>
+  <a href="https://discord.com/users/你的ID" target="blank">
+    <img src="https://skillicons.dev/icons?i=discord" width="40" />
+  </a>
+</div>
