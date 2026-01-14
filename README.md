@@ -12,15 +12,15 @@
 
 ---
 
-<table width="100%">
-  <tr>
-    <td width="50%" align="left">
+<table width="100%" border="0" style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td width="50%" align="left" style="border: none;">
       <img src="https://github-readme-streak-stats-1-2fit.onrender.com/?user=jjs7233&theme=radical&hide_border=true" />
       <br/>
       <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jjs7233&layout=compact&theme=radical" />
     </td>
-    <td width="50%" align="center">
-      <img src="https://github.com/user-attachments/assets/c22a9a6c-fb7d-495e-9471-67ca4e7b7dad" width="100%" />
+    <td width="50%" align="center" style="border: none;">
+      <img src="https://github.com/user-attachments/assets/9ba01d1c-caf6-4c80-9ae9-58d3f81b83e5" width="100%" />
     </td>
   </tr>
 </table>
