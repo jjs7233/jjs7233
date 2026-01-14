@@ -1,4 +1,9 @@
-<h3 align="center">Hi there 👋, I'm JTS!</h3>
+<div align="center">
+  <h3>Hi there 👋, I'm JTS!</h3>
+  I'm a Developer and Gamer from the US.
+  <br>
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszq/giphy.gif" width="100%" alt="Matrix Code"/>
+</div>
 I'm a Developer and Gamer from the US. 
 
 - 🔭 I’m currently working on **High-Performance Distributed Systems**
