@@ -8,7 +8,7 @@ I'm a Developer and Gamer from the US.
 ---
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=jjs7233&theme=radical&hide_border=true" alt="JTS's Streak" />
+  <img src="https://github-readme-streak-stats-1-2fit.onrender.com/?user=jjs7233&theme=radical&hide_border=true" alt="JTS's Streak" />
   <br/>
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jjs7233&layout=compact&theme=radical" alt="Top Langs" />
 </div>
