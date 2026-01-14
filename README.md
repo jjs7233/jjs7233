@@ -38,7 +38,8 @@
       </a>
     </td>
     <td width="45%" align="right" valign="top">
-      <img src="https://github.com/user-attachments/assets/9ba01d1c-caf6-4c80-9ae9-58d3f81b83e5" width="100%" />
+      <img src="https://github.com/user-attachments/assets/add27444-fc8f-41ef-b07e-a56f221d4597" width="100%" />
     </td>
   </tr>
 </table>
+
