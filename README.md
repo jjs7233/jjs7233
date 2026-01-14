@@ -1,3 +1,7 @@
+<img src="https://komarev.com/ghpvc/?username=jjs7233&label=Views&color=007BFF&style=flat" alt="Visitor Count" />
+
+<br/><br/>
+
 <div align="center">
   <h2>Hi there 👋, I'm JTS!</h2>
   <p>Developer and Gamer</p>
