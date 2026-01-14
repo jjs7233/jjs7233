@@ -28,14 +28,14 @@
       <br/><br/>
       <h3>Connect With Me 🤝</h3>
       <a href="https://linkedin.com/in/jiantong-song" target="_blank">
-        <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
+      <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
       </a>
       <a href="https://discord.com/users/zaza2246" target="_blank">
-        <img src="https://skillicons.dev/icons?i=discord" width="40" />
+      <img src="https://skillicons.dev/icons?i=discord" width="40" />
       </a>
-      <a href="mailto:jtsong7233@gmail.com">
-        <img src="https://skillicons.dev/icons?i=gmail" width="40" />
-      </a>
+      <a href="mailto:jtsong7233@gmail.com" target="_blank">
+      <img src="https://skillicons.dev/icons?i=gmail" width="40" />
+</a>
     </td>
     <td width="45%" align="right" valign="top">
       <img src="https://github.com/user-attachments/assets/add27444-fc8f-41ef-b07e-a56f221d4597" width="100%" />
