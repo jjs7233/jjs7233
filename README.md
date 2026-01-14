@@ -15,7 +15,10 @@
 
 <p align="left">
   <img src="https://github.com/user-attachments/assets/9ba01d1c-caf6-4c80-9ae9-58d3f81b83e5" width="48%" align="right" />
+  
   <img src="https://github-readme-streak-stats-1-2fit.onrender.com/?user=jjs7233&theme=radical&hide_border=true" width="48%" />
   <br/>
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jjs7233&layout=compact&theme=radical" width="48%" />
+  <br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FE428E&width=435&lines=Building+Distributed+Systems;Gamer+and+Developer;Learning+New+Tech+Every+Day" alt="Typing SVG" />
 </p>
