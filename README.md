@@ -12,13 +12,16 @@
 - 🛠️ **Tech Stack**: Java, Spring Boot, Docker, MySQL, Redis
 
 ---
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&color=007BFF&width=435&center=true&vCenter=true&lines=Whatever+you+do;do+it+a+hundred+percent;Work+hard;Study+hard;Play+hard;Hard+hard" />
+</div>
+<br/>
 
 <table width="100%">
   <tr>
     <td width="50%" align="left" valign="top">
       <img src="https://github-readme-streak-stats-1-2fit.onrender.com/?user=jjs7233&theme=radical&hide_border=true" width="100%" />
       <br/>
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jjs7233&layout=compact&theme=radical" width="100%" />
       <br/><br/>
       <h3>Technologies That I Know 🏗️</h3>
       <img src="https://skillicons.dev/icons?i=java,go,spring,docker,mysql,redis,git,py,kubernetes&theme=dark" />
