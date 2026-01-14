@@ -1,10 +1,10 @@
 <div align="center">
   <h3>Hi there 👋, I'm JTS!</h3>
   I'm a Developer and Gamer from the US.
-  <br>
-  <img src="https://media.giphy.com/media/f3iwJFOvoHzlpzkjZl/giphy.gif" width="600" alt="Distributed Systems"/>
+  <br><br>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500" alt="Coding GIF"/>
 </div>
-I'm a Developer and Gamer from the US. 
+<br>
 
 - 🔭 I’m currently working on **High-Performance Distributed Systems**
 - 🎮 I love coding and playing games!
