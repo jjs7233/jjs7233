@@ -21,7 +21,7 @@
       <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jjs7233&layout=compact&theme=radical" width="100%" />
       <br/><br/>
       <h3>Technologies That I Know 🏗️</h3>
-      <img src="https://skillicons.dev/icons?i=java,spring,docker,mysql,redis,git,aws,cpp,py,kubernetes&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=java,go,spring,docker,mysql,redis,git,py,kubernetes&theme=dark" />
       <br/><br/>
       <h3>Connect With Me 🤝</h3>
       <a href="https://linkedin.com/in/jiantong-song" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="40" /></a>
