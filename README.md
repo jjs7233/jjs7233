@@ -2,21 +2,7 @@
   <h3>Hi there 👋, I'm JTS!</h3>
   Developer and Gamer
   <br><br>
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500" alt="Coding GIF"/>
-</div>
-<br>
-
-- 🔭 I’m currently working on **High-Performance Distributed Systems**
-- 🎮 I love coding and playing games!
-- 🛠️ **Tech Stack**: Java, Spring Boot, Docker, MySQL, Redis
-
----
-
-<div align="center">
-  <h3>Hi there 👋, I'm JTS!</h3>
-  Developer and Gamer
-  <br><br>
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500" alt="Coding GIF"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500" />
 </div>
 
 <br>
@@ -27,15 +13,9 @@
 
 ---
 
-<table width="100%" style="border-collapse: collapse; border: none; border-spacing: 0;">
-  <tr style="border: none;">
-    <td width="50%" align="left" style="border: none; padding: 0;">
-      <img src="https://github-readme-streak-stats-1-2fit.onrender.com/?user=jjs7233&theme=radical&hide_border=true" />
-      <br/>
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jjs7233&layout=compact&theme=radical" />
-    </td>
-    <td width="50%" align="center" style="border: none; padding: 0;">
-      <img src="https://github.com/user-attachments/assets/9ba01d1c-caf6-4c80-9ae9-58d3f81b83e5" width="100%" />
-    </td>
-  </tr>
-</table>
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/9ba01d1c-caf6-4c80-9ae9-58d3f81b83e5" width="48%" align="right" />
+  <img src="https://github-readme-streak-stats-1-2fit.onrender.com/?user=jjs7233&theme=radical&hide_border=true" width="48%" />
+  <br/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jjs7233&layout=compact&theme=radical" width="48%" />
+</p>
