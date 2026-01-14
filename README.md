@@ -1,4 +1,4 @@
-### Hi there 👋, I'm JTS!
+<h3 align="center">Hi there 👋, I'm JTS!</h3>
 I'm a Developer and Gamer from the US. 
 
 - 🔭 I’m currently working on **High-Performance Distributed Systems**
