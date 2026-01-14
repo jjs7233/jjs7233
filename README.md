@@ -24,11 +24,17 @@
       <img src="https://skillicons.dev/icons?i=java,go,spring,docker,mysql,redis,git,py,kubernetes&theme=dark" />
       <br/><br/>
       <h3>Connect With Me 🤝</h3>
-      <a href="https://linkedin.com/in/jiantong-song" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="40" /></a>
-      <a href="https://discord.com/users/zaza2246" target="_blank"><img src="https://skillicons.dev/icons?i=discord" width="40" /></a>
-      <a href="mailto:jtsong7233@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40" /></a>
+      <a href="https://linkedin.com/in/jiantong-song" target="_blank">
+        <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
+      </a>
+      <a href="https://discord.com/users/zaza2246" target="_blank">
+        <img src="https://skillicons.dev/icons?i=discord" width="40" />
+      </a>
+      <a href="mailto:jtsong7233@gmail.com">
+        <img src="https://skillicons.dev/icons?i=gmail" width="40" />
+      </a>
     </td>
-    <td width="50%" align="right" valign="top">
+    <td width="45%" align="right" valign="top">
       <img src="https://github.com/user-attachments/assets/9ba01d1c-caf6-4c80-9ae9-58d3f81b83e5" width="100%" />
     </td>
   </tr>
