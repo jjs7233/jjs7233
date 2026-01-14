@@ -15,22 +15,20 @@
 
 <table width="100%">
   <tr>
-    <td width="50%" align="left" valign="top" style="border: none;">
+    <td width="50%" align="left" valign="top">
       <img src="https://github-readme-streak-stats-1-2fit.onrender.com/?user=jjs7233&theme=radical&hide_border=true" width="100%" />
       <br/>
       <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jjs7233&layout=compact&theme=radical" width="100%" />
       <br/><br/>
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=FE428E&width=435&lines=Technologies+That+I+Know+🏗️" />
-      <br/>
-      <img src="https://skillicons.dev/icons?i=java,spring,docker,mysql,redis,linux,git,aws,cpp,py,kubernetes&theme=dark" />
+      <h3>Technologies That I Know 🏗️</h3>
+      <img src="https://skillicons.dev/icons?i=java,spring,docker,mysql,redis,git,aws,cpp,py,kubernetes&theme=dark" />
       <br/><br/>
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=FE428E&width=435&lines=Connect+With+Me+🤝" />
-      <br/>
-      <a href="#"><img src="https://skillicons.dev/icons?i=linkedin" width="40" /></a>
-      <a href="#"><img src="https://skillicons.dev/icons?i=discord" width="40" /></a>
-      <a href="mailto:jjs7233@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40" /></a>
+      <h3>Connect With Me 🤝</h3>
+      <a href="https://linkedin.com/in/jiantong-song" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="40" /></a>
+      <a href="https://discord.com/users/zaza2246" target="_blank"><img src="https://skillicons.dev/icons?i=discord" width="40" /></a>
+      <a href="mailto:jtsong7233@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40" /></a>
     </td>
-    <td width="50%" align="right" valign="top" style="border: none;">
+    <td width="50%" align="right" valign="top">
       <img src="https://github.com/user-attachments/assets/9ba01d1c-caf6-4c80-9ae9-58d3f81b83e5" width="100%" />
     </td>
   </tr>
