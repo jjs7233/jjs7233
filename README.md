@@ -21,10 +21,10 @@
     <td width="55%" align="left" valign="top" style="border: none;">
       <img src="https://github-readme-streak-stats-1-2fit.onrender.com/?user=jjs7233&theme=radical&hide_border=true" width="100%" />
       <br/><br/>
-      <h3>Technologies That I Know 🏗️</h3>
-      <img src="https://skillicons.dev/icons?i=java,go,spring,docker,mysql,redis,git,py,kubernetes&theme=dark" />   
+      <p style="font-size: 1.5em; font-weight: bold; margin: 0; color: #FE428E;">Technologies That I Know 🏗️</p>
+      <img src="https://skillicons.dev/icons?i=java,go,spring,docker,mysql,redis,git,py,kubernetes&theme=dark" />
       <br/><br/>
-      <h3>Connect With Me 🤝</h3>
+      <p style="font-size: 1.5em; font-weight: bold; margin: 0; color: #FE428E;">Connect With Me 🤝</p>
       <table border="0" cellpadding="5" cellspacing="0" style="border: none; border-collapse: collapse;">
         <tr style="border: none;">
           <td style="border: none;"><img src="https://skillicons.dev/icons?i=linkedin" width="30" /></td>
