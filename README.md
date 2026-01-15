@@ -4,13 +4,20 @@
 
 <div align="center">
   <h2>Hi there 👋, I'm JTS!</h2>
-  <p>Developer and Gamer</p>
+  <p>Software Developer Engineer</p>
   <br/>
 </div>
+<br/>
 
-- 🔭 I’m currently working on **High-Performance Distributed Systems**
-- 🎮 I love coding and playing games!
-- 🛠️ **Tech Stack**: Java, Spring Boot, Docker, MySQL, Redis
+<p style="font-size: 2em; font-weight: bold; margin-bottom: 10px; color: #007BFF;">About Me 🧑‍💻</p>
+
+- 🔭 I’m currently studying Computer Science at Western Governors University
+- 🎮 I love coding and gaming!
+- 📈 A passionate self-learner and a Backend Developer
+- 💡 I like to explore new technologies and develop software solutions and quick hacks.
+- 🌱 I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.
+- 📄 Please have a look at my Résumé for more details about me. I'm open to feedback and suggestions!
+<br/>
 
 ---
 
