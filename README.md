@@ -9,7 +9,7 @@
 </div>
 <br/>
 
-<p style="font-size: 2em; font-weight: bold; margin-bottom: 10px; color: #007BFF;">About Me 🧑‍💻</p>
+<p style="font-size: 4em; font-weight: bold; margin-bottom: 10px; color: #007BFF;">About Me 🧑‍💻</p>
 
 - 🔭 I’m currently studying Computer Science at Western Governors University
 - 🎮 I love coding and gaming!
